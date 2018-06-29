@@ -9,7 +9,7 @@ setuptools.setup(
     author="forte-bin",
     author_email="forte.bin@gmail.com",
     description="A collection of utility functions",
-    long_description=description,
+    long_description="A collection of utility functions",
     long_description_content_type="text/markdown",
     url="https://github.com/forte-bin/fortelib",
     packages=setuptools.find_packages(),
